@@ -8,5 +8,6 @@ public class atelier {
 
      // Modification de la salutation
      System.out.println("Merci de participer à cet atelier Git et GitHub!");
+     System.out.println("branche1");
 	}
 }
